@@ -8,7 +8,7 @@
 ### Connect with me:
 [<img align="left" alt="opa_oz | Telegram" width="22px" src="https://static.cdnlogo.com/logos/t/23/telegram.png" />][Telergam]
 
-[<img align="left" alt="opa_oz | Gmail" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png" />]glebsolo46@gmail.com
+[<img align="left" alt="opa_oz | Gmail" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png" | glebsolo46@gmail.com />]
 
 
 <br />
