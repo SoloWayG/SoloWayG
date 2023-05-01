@@ -16,7 +16,7 @@ glebsolo46@gmail.com
 
 ### Languages and Tools:
 
-<img align="left" alt="Pytorch" width="30px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRTCZuuLPZcJjXwujSzKjrE3EV_AU0yCkB7ARqjCVF4&s" />
+<img align="left" alt="Pytorch" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/PyTorch_logo_icon.svg/1200px-PyTorch_logo_icon.svg.png" />
 <img align="left" alt="Python" width="26px" src="https://qph.cf2.quoracdn.net/main-qimg-28cadbd02699c25a88e5c78d73c7babc" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
