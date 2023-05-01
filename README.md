@@ -1,9 +1,9 @@
-### Hi there, I'm Gleb Solovev - aka opa_oz 👋
+### Hi there, I'm Gleb Solovev
 
 ## I'm a Data Scientist, CV and NLP engineer!
-- 🔭 I’m currently working at [Woven by Toyota]([https://woven-planet.global/en](https://woven.toyota/en))
-- 🥅 2023 Goals: Damn, I successfully moved to Japan! That's enough goals for this year!
-- ⚡ Ask me: How to airplanes fly? *And i will give a lecture about aerodynamics mechanics of liquids and gases :)*
+- 🔭 I’m researching DS on Kaggle and ODS! 
+- 👋 I try to train a NN to Face Recognition, but not every day can recognize myself in the mirror :))
+- ⚡ Ask me: How to airplanes fly? *And i will give a lecture about aerodynamics and mechanics of liquids and gases*
 
 ### Connect with me:
 [<img align="left" alt="opa_oz | Telegram" width="22px" src="https://static.cdnlogo.com/logos/t/23/telegram.png" />][Telergam]
