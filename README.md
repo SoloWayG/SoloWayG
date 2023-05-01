@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-### Hi there, I'm Vladimir Levin - aka opa_oz 👋
+### Hi there, I'm Gleb Solovev - aka opa_oz 👋
 
 ## I'm a Team Leader, Developer, and Mentor!
 - 🔭 I’m currently working at [Woven by Toyota]([https://woven-planet.global/en](https://woven.toyota/en))
