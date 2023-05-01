@@ -6,9 +6,9 @@
 - ⚡ Fun fact: I hate freelancing, but I am freelancing **A LOT**
 
 ### Connect with me:
-[<img align="left" alt="opa_oz | Twitter" width="22px" src="https://static.cdnlogo.com/logos/t/23/telegram.png" />][Telergam]
-[<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="opa_oz | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="opa_oz | Telegram" width="22px" src="https://static.cdnlogo.com/logos/t/23/telegram.png" />][Telergam]
+[<img align="left" alt="opa_oz | Gmail" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png" />][gmail]
+
 
 <br />
 
@@ -31,7 +31,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=opa-oz&hide=jupyter,css,scss,html,c,makefile,dockerfile,shell,cmake)](https://github.com/anuraghazra/github-readme-stats)
 
 [Telergam]: https://t.me/FrankFree
-[linkedin]: https://www.linkedin.com/in/opa-oz/
+[gmail]: glebsolo46@gmail.com
 
 
 
