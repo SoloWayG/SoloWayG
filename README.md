@@ -1,7 +1,7 @@
 ### Hi there, I'm Gleb Solovev
 
 ## I'm a Data Scientist, ML and DL engineer!
-- 🔭 I’m researching DS on Kaggle and ODS! 
+- 🔭 I’m researching DS on Kaggle! 
 - 👋 I try to train a NN to Face Recognition, but not every day can recognize myself in the mirror :))
 - ⚡ Ask me: How to airplanes fly? *And i will give a lecture about aerodynamics and mechanics of liquids and gases*
 
