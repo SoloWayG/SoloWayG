@@ -8,6 +8,7 @@
 ### Connect with me:
 [<img align="left" alt="opa_oz | Telegram" width="22px" src="https://static.cdnlogo.com/logos/t/23/telegram.png" />][Telergam]
 
+[<img align="left" alt="opa_oz | Google Scholar" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" />][Google_S]
 [<img align="left" alt="opa_oz | Kaggle" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" />][Kaggle]
 [<img align="left" alt="opa_oz | Gmail" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png" />][gmail]
 glebsolo46@gmail.com
@@ -29,7 +30,7 @@ glebsolo46@gmail.com
 <br />
 
 ---
-
+[Google_S]: https://scholar.google.com/citations?view_op=list_works&hl=ru&user=H62XqCoAAAAJ
 [Telergam]: https://t.me/FrankFree
 [gmail]: mailto:glebsolo46@gmail.com
 [Kaggle]:https://www.kaggle.com/gsolovev
