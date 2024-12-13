@@ -8,11 +8,12 @@
 ### Connect with me:
 [<img align="left" alt="opa_oz | Telegram" width="22px" src="https://static.cdnlogo.com/logos/t/23/telegram.png" />][Telergam]
 
-[<img align="left" alt="opa_oz | Google Scholar" width="22px" src="[https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png](https://commons.wikimedia.org/wiki/File:Google_Scholar_logo.svg)" />][Google_S]
+
 [<img align="left" alt="opa_oz | Kaggle" width="22px" src="https://cdn3.iconfinder.com/data/icons/logos-and-brands-adobe/512/189_Kaggle-512.png" />][Kaggle]
 [<img align="left" alt="opa_oz | Gmail" width="22px" src="https://cdn.iconscout.com/icon/free/png-256/free-gmail-2981844-2476484.png" />][gmail]
 glebsolo46@gmail.com
 
+[<img align="left" alt="opa_oz | Google Scholar" width="122px" src="https://upload.wikimedia.org/wikipedia/commons/2/28/Google_Scholar_logo.png" />][Google_S]
 
 <br />
 
